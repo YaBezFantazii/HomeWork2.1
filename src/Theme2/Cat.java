@@ -1,4 +1,4 @@
-package com.company;
+package Theme2;
 
 class Cat {
     private String FullName;
